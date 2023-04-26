@@ -1,0 +1,7 @@
+{"name":"Emby Icons", 
+"description":"By twoz", 
+"icons":[
+    {"name":"Emby111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby111.png"},
+    {"name":"Emby22", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby22.png"}
+            ]
+}
