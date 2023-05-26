@@ -1,9 +1,9 @@
 {"name":"Emby-test", 
 "description":"By fsz", 
 "icons":[
-    {"name":"Emby111", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-01.png"},
-    {"name":"Emby222", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-02.png"},
-    {"name":"Emby333", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-03.png"},
-    {"name":"Emby444", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-04.png"}
+    {"name":"Emby111", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/peach1.png.png"},
+    {"name":"Emby222", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/peach2.png.png"},
+    {"name":"Emby333", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/peach3.png"},
+    {"name":"Emby444", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/peach4.png.png"}
             ]
 }
