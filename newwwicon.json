@@ -1,7 +1,13 @@
-{"name":"fangshuIcons", 
+{"name":"Emby-test", 
 "description":"By fsz", 
 "icons":[
-    {"name":"Emby111", "url":"https://github.com/fangshuzai/icon/blob/b5e7d2219f432666a025237a19a452bc6c0ff30e/90A99D66-C1C6-4EA7-8554-2F91DCC2F335.jpeg"},
-    {"name":"Emby22", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby22.png"}
+    {"name":"Emby111", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-02.png"},
+    {"name":"Emby222", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-03.png"},
+    {"name":"Emby333", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-04.png"},
+    {"name":"Emby444", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-05.png"},
+    {"name":"Emby555", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-06.png"},
+    {"name":"Emby666", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-07.png"},
+    {"name":"Emby777", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-08.png"},
+    {"name":"Emby888", "url":"https://raw.githubusercontent.com/fangshuzai/icontest/main/IMG_0789-09.png"}
             ]
 }
